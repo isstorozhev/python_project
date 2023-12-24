@@ -1,4 +1,4 @@
-# Проект ""
+# Проект "Анализ резюме из HeadHunter"
 
 ## Оглавление
 [1. Описание проекта](https://github.com/isstorozhev/python_project/blob/main/README.md#Описание-проекта)
